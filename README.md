@@ -2,6 +2,7 @@
 ### Topic: Analyze previous year home prices in LA
 ##### By Katherine Le and Miranda Rendon
 
+In this project we analyzed the correlation between home prices, time on market, and unsold inventory over the years. We were able to make connections between major world events and how they affected the housing market. We specifically focused on the affects that these events had: 1992 LA Riots, 1995 Dot Com Bubble, 2007 Great Recession, and 2020 COVID-19 Pandemic.
 
 **Tools used:** Jupyter Notebook, pandas, Seaborn, and matplotlib
 
